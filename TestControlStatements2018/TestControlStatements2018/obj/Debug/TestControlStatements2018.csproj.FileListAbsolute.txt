@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2017\Projects\TestControlStatements2018\TestControlStatements2018\bin\Debug\TestControlStatements2018.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\TestControlStatements2018\TestControlStatements2018\bin\Debug\TestControlStatements2018.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestControlStatements2018\TestControlStatements2018\bin\Debug\TestControlStatements2018.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestControlStatements2018\TestControlStatements2018\obj\Debug\TestControlStatements2018.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\TestControlStatements2018\TestControlStatements2018\obj\Debug\TestControlStatements2018.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestControlStatements2018\TestControlStatements2018\obj\Debug\TestControlStatements2018.pdb

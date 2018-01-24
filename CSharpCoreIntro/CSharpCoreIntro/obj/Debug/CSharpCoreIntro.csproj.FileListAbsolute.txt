@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2017\Projects\CSharpCoreIntro\CSharpCoreIntro\bin\Debug\CSharpCoreIntro.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\CSharpCoreIntro\CSharpCoreIntro\bin\Debug\CSharpCoreIntro.exe
+c:\users\kamel\documents\visual studio 2017\Projects\CSharpCoreIntro\CSharpCoreIntro\bin\Debug\CSharpCoreIntro.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\CSharpCoreIntro\CSharpCoreIntro\obj\Debug\CSharpCoreIntro.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\CSharpCoreIntro\CSharpCoreIntro\obj\Debug\CSharpCoreIntro.exe
+c:\users\kamel\documents\visual studio 2017\Projects\CSharpCoreIntro\CSharpCoreIntro\obj\Debug\CSharpCoreIntro.pdb
