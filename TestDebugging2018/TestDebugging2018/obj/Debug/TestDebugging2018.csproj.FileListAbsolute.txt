@@ -1,0 +1,8 @@
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebugging2018\TestDebugging2018\bin\Debug\TestDebugging2018.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebugging2018\TestDebugging2018\bin\Debug\TestDebugging2018.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebugging2018\TestDebugging2018\bin\Debug\TestDebugging2018.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebugging2018\TestDebugging2018\obj\Debug\TestDebugging2018.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebugging2018\TestDebugging2018\obj\Debug\TestDebugging2018.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebugging2018\TestDebugging2018\obj\Debug\TestDebugging2018.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebugging2018\TestDebugging2018\bin\Debug\nunit.framework.dll
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebugging2018\TestDebugging2018\bin\Debug\nunit.framework.xml

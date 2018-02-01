@@ -1,0 +1,17 @@
+C:\Users\kamel\documents\visual studio 2017\Projects\TestMethods2018\DoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kamel\documents\visual studio 2017\Projects\TestMethods2018\DoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kamel\documents\visual studio 2017\Projects\TestMethods2018\DoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kamel\documents\visual studio 2017\Projects\TestMethods2018\DoTests\bin\Debug\DoTests.dll
+C:\Users\kamel\documents\visual studio 2017\Projects\TestMethods2018\DoTests\bin\Debug\DoTests.pdb
+C:\Users\kamel\documents\visual studio 2017\Projects\TestMethods2018\DoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kamel\documents\visual studio 2017\Projects\TestMethods2018\DoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kamel\documents\visual studio 2017\Projects\TestMethods2018\DoTests\bin\Debug\TestMethods2018.exe
+C:\Users\kamel\documents\visual studio 2017\Projects\TestMethods2018\DoTests\bin\Debug\TestMethods2018.pdb
+C:\Users\kamel\documents\visual studio 2017\Projects\TestMethods2018\DoTests\bin\Debug\TestMethods2018.exe.config
+C:\Users\kamel\documents\visual studio 2017\Projects\TestMethods2018\DoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kamel\documents\visual studio 2017\Projects\TestMethods2018\DoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kamel\documents\visual studio 2017\Projects\TestMethods2018\DoTests\obj\Debug\DoTests.csprojResolveAssemblyReference.cache
+C:\Users\kamel\documents\visual studio 2017\Projects\TestMethods2018\DoTests\obj\Debug\DoTests.dll
+C:\Users\kamel\documents\visual studio 2017\Projects\TestMethods2018\DoTests\obj\Debug\DoTests.pdb
+C:\Users\kamel\documents\visual studio 2017\Projects\TestMethods2018\DoTests\bin\Debug\nunit.framework.dll
+C:\Users\kamel\documents\visual studio 2017\Projects\TestMethods2018\DoTests\bin\Debug\nunit.framework.xml

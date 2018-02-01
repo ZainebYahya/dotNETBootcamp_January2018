@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2017\Projects\TestArrayLists2018\TestArrayLists2018\bin\Debug\TestArrayLists2018.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\TestArrayLists2018\TestArrayLists2018\bin\Debug\TestArrayLists2018.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestArrayLists2018\TestArrayLists2018\bin\Debug\TestArrayLists2018.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestArrayLists2018\TestArrayLists2018\obj\Debug\TestArrayLists2018.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\TestArrayLists2018\TestArrayLists2018\obj\Debug\TestArrayLists2018.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestArrayLists2018\TestArrayLists2018\obj\Debug\TestArrayLists2018.pdb

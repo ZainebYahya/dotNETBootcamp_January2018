@@ -1,0 +1,17 @@
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebugging2018\ProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebugging2018\ProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebugging2018\ProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebugging2018\ProjectTests\bin\Debug\ProjectTests.dll
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebugging2018\ProjectTests\bin\Debug\ProjectTests.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebugging2018\ProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebugging2018\ProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebugging2018\ProjectTests\bin\Debug\TestDebugging2018.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebugging2018\ProjectTests\bin\Debug\TestDebugging2018.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebugging2018\ProjectTests\bin\Debug\TestDebugging2018.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebugging2018\ProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebugging2018\ProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebugging2018\ProjectTests\obj\Debug\ProjectTests.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebugging2018\ProjectTests\obj\Debug\ProjectTests.dll
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebugging2018\ProjectTests\obj\Debug\ProjectTests.pdb
+C:\Users\kamel\documents\visual studio 2017\Projects\TestDebugging2018\ProjectTests\bin\Debug\nunit.framework.dll
+C:\Users\kamel\documents\visual studio 2017\Projects\TestDebugging2018\ProjectTests\bin\Debug\nunit.framework.xml

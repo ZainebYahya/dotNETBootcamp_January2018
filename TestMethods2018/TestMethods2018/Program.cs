@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Text.RegularExpressions;
 namespace TestMethods2018
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -65,12 +65,23 @@ namespace TestMethods2018
             return (x > y) ? x : y; // condition ? true part : false part 
         }
 
+        public static int CalculatePower(int x, int y)
+        {
+            int result = 1;
+            for (int i = 1; i <=y; i++)
+            {
+                result *= x;
+            }
+            return result;
 
+        }
         public static string ReadValidOption()
         {
             string Input = Console.ReadLine();
 
-            while (!Regex.Match(Input, @"^(yes|y|no|n)$").Success)
+            while ( Input.ToLower() !="yes" && Input.ToLower() != "y" 
+                && Input.ToLower() != "no"
+               && Input.ToLower() != "n")
             {
                 Console.WriteLine("Please enter only yes|y|no|n");
                 Input = Console.ReadLine();

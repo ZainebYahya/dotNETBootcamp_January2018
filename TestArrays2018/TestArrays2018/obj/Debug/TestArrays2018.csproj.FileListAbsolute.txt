@@ -1,0 +1,9 @@
+c:\users\kamel\documents\visual studio 2017\Projects\TestArrays2018\TestArrays2018\bin\Debug\TestArrays2018.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\TestArrays2018\TestArrays2018\bin\Debug\TestArrays2018.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestArrays2018\TestArrays2018\bin\Debug\TestArrays2018.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestArrays2018\TestArrays2018\obj\Debug\TestArrays2018.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\TestArrays2018\TestArrays2018\obj\Debug\TestArrays2018.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestArrays2018\TestArrays2018\obj\Debug\TestArrays2018.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestArrays2018\TestArrays2018\bin\Debug\NodaTime.dll
+c:\users\kamel\documents\visual studio 2017\Projects\TestArrays2018\TestArrays2018\bin\Debug\NodaTime.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestArrays2018\TestArrays2018\bin\Debug\NodaTime.xml

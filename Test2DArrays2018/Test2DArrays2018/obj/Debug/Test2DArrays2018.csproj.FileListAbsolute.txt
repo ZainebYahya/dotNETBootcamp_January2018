@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2017\Projects\Test2DArrays2018\Test2DArrays2018\bin\Debug\Test2DArrays2018.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\Test2DArrays2018\Test2DArrays2018\bin\Debug\Test2DArrays2018.exe
+c:\users\kamel\documents\visual studio 2017\Projects\Test2DArrays2018\Test2DArrays2018\bin\Debug\Test2DArrays2018.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\Test2DArrays2018\Test2DArrays2018\obj\Debug\Test2DArrays2018.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\Test2DArrays2018\Test2DArrays2018\obj\Debug\Test2DArrays2018.exe
+c:\users\kamel\documents\visual studio 2017\Projects\Test2DArrays2018\Test2DArrays2018\obj\Debug\Test2DArrays2018.pdb
