@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2017\Projects\TestOOP2018\TestOOP2018\bin\Debug\TestOOP2018.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\TestOOP2018\TestOOP2018\bin\Debug\TestOOP2018.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestOOP2018\TestOOP2018\bin\Debug\TestOOP2018.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestOOP2018\TestOOP2018\obj\Debug\TestOOP2018.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\TestOOP2018\TestOOP2018\obj\Debug\TestOOP2018.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestOOP2018\TestOOP2018\obj\Debug\TestOOP2018.pdb
