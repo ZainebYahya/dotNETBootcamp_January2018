@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2017\Projects\TestAbstractAndInterfaces2018\TestAbstractAndInterfaces2018\bin\Debug\TestAbstractAndInterfaces2018.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\TestAbstractAndInterfaces2018\TestAbstractAndInterfaces2018\bin\Debug\TestAbstractAndInterfaces2018.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestAbstractAndInterfaces2018\TestAbstractAndInterfaces2018\bin\Debug\TestAbstractAndInterfaces2018.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestAbstractAndInterfaces2018\TestAbstractAndInterfaces2018\obj\Debug\TestAbstractAndInterfaces2018.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\TestAbstractAndInterfaces2018\TestAbstractAndInterfaces2018\obj\Debug\TestAbstractAndInterfaces2018.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestAbstractAndInterfaces2018\TestAbstractAndInterfaces2018\obj\Debug\TestAbstractAndInterfaces2018.pdb
