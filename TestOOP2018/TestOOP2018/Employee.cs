@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace TestOOP2018
 {
-    class Employee
+    class  Employee
     {
         // Fields 
         #region Fields
@@ -82,7 +82,7 @@ namespace TestOOP2018
         // Methods
 
         // print the employee's info
-        public void PrintInfo()
+        public virtual void PrintInfo()
         {
             Console.WriteLine(new string('*',20));
             Console.WriteLine(Address);
@@ -101,13 +101,10 @@ namespace TestOOP2018
 
         }
 
-
-        void MyMethod(Func<int, int> objFunc)
+        public override string ToString()
         {
-
-
-
-
+            return "Employee:" + Name; 
         }
+
     }
 }
