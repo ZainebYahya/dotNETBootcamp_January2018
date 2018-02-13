@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2017\Projects\TestThreads\TestThreads\bin\Debug\TestThreads.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\TestThreads\TestThreads\bin\Debug\TestThreads.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestThreads\TestThreads\bin\Debug\TestThreads.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestThreads\TestThreads\obj\Debug\TestThreads.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\TestThreads\TestThreads\obj\Debug\TestThreads.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestThreads\TestThreads\obj\Debug\TestThreads.pdb
