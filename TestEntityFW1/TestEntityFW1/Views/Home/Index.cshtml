@@ -1,0 +1,10 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@model TestEntityFW1.Models.Customer
+
+<form action="/Home/AddNewCustomer" method="post">
+   Customer ID: <input type="text" name="CustomerID" /><br /><br />
+    Company name: <input type="text" name="CompanyName" /><br /><br />
+    <input type="submit" value="Add new customer" />
+</form>

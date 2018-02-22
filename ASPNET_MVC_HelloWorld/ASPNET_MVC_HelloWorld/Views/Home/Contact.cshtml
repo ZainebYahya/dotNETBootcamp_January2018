@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<form action="/Home/AddToEList" method="post">
+    <input type="text" name="UserEmail"/><br /><br />
+    <input type="submit" value="Subscribe to email list" />
+</form>
+
+<h3>@ViewBag.Confirm</h3>
