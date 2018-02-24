@@ -1,0 +1,18 @@
+﻿<br />
+<br />
+
+<h3>Orders made by: @ViewBag.CustomerOrders[0].CustomerID</h3>
+
+<table class="table">
+    <tr>
+        <th>Order ID</th>
+        <th>Order Date</th>
+    </tr>
+    @foreach (var o in ViewBag.CustomerOrders)
+    {
+        <tr>
+            <td>@o.OrderID</td>
+            <td>@o.OrderDate</td>
+        </tr>
+    }
+</table>

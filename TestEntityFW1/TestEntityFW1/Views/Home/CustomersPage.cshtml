@@ -1,0 +1,44 @@
+﻿<br />
+<br />
+<form action="/Home/GetCustomersByCountry" method="get">
+    <select name="Country" >
+        <option value="Germany">Germany</option>
+        <option value="UK">UK</option>
+        <option value="France">France</option>
+        <option value="Brazil">Brazil</option>
+        <option value="USA">USA</option>
+    </select>
+    <input type="submit" value="Search" />
+</form>
+<br />
+<br />
+
+<table class="table">
+    <tr>
+        <th>Customer ID</th>
+        <th>Company Name</th>
+        <th>City</th>
+        <th>Country</th>
+        <th>Orders</th>
+    </tr>
+    @foreach (var C in ViewBag.CustomersData)
+    {
+        <tr>
+            <td>
+                @C.CustomerID
+            </td>
+            <td>
+                @C.CompanyName
+            </td>
+            <td>
+                @C.City
+            </td>
+            <td>
+                @C.Country
+            </td>
+            <td>
+                <a href="/Home/GetOrdersByCID?CustomerID=@C.CustomerID">Orders</a>
+            </td>
+        </tr>
+    }
+</table>
