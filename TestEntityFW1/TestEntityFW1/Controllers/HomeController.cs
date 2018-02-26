@@ -31,16 +31,48 @@ namespace TestEntityFW1.Controllers
 
         public ActionResult AddNewCustomer(Customer newCustomer)
         {
-            // 1. Create an object from the ORM class 
-            NorthwindEntities MyORM = new NorthwindEntities();
-           // validation!!!!
-            MyORM.Customers.Add(newCustomer);
 
-            MyORM.SaveChanges();// reflects changes done on the list to the actual db
             
+            // 0. validation!
+            if (!ModelState.IsValid)
+            {
+                //// over errors for each field in your model
+                //foreach (ModelState s in ModelState.Values)
+                //{
+                //    foreach (ModelError r in s.Errors)
+                //    {
+                //      // indivisual errors for each field 
+
+                //   // r.ErrorMessage
+
+                //    }
+
+                //}
 
 
-            return View("Index");
+                return View("../Shared/Error");// error page 
+
+            }
+
+            try
+            {
+                // 1. Create an object from the ORM class 
+                NorthwindEntities MyORM = new NorthwindEntities();
+                // validation!!!!
+                MyORM.Customers.Add(newCustomer);
+
+                MyORM.SaveChanges();// reflects changes done on the list to the actual db
+                return View("Index");
+            }
+
+            catch (Exception e)
+            {
+
+               // ModelState.Values.Add(new ModelState());
+           
+                return View("../Shared/Error");// error page 
+
+            }
         }
 
         public ActionResult CustomersPage()
@@ -86,5 +118,63 @@ namespace TestEntityFW1.Controllers
 
         }
 
+
+        public ActionResult DeleteCustomerByCID(string CustomerID)
+        {
+            //1. ORM 
+             NorthwindEntities ORM = new NorthwindEntities();
+
+            //2. Find the customer, then remove from the list 
+            // If the record has any dependency, delete that first! 
+
+            ORM.Customers.Remove(ORM.Customers.Find(CustomerID));
+
+            //3. Save changes!
+
+            ORM.SaveChanges();
+            // return View("CustomersPage");
+            return RedirectToAction("CustomersPage");
+        }
+
+        public ActionResult UpdateCustomerByCID(string CustomerID)
+        {
+            //1. ORM 
+
+            NorthwindEntities ORM = new NorthwindEntities();
+            
+            //2. Find that customer
+            Customer ToBeUpdated = ORM.Customers.Find(CustomerID);
+
+            // 3. Send data to the view 
+            ViewBag.CustomerToBeUpdated = ToBeUpdated;
+
+            return View("CustomerDetails");
+
+        }
+
+        public ActionResult SaveCustomerChanges(Customer NewCustomer)
+        {
+            // 0. Server side Validation! 
+
+            if (!ModelState.IsValid)
+            {
+                
+                return View("../Shared/Error");// error page 
+
+            }
+
+
+            //1. ORM
+            NorthwindEntities ORM = new NorthwindEntities();
+
+            //2. Find the customer 
+            ORM.Entry(ORM.Customers.Find(NewCustomer.CustomerID)).
+                CurrentValues.SetValues(NewCustomer);
+            //3.
+            ORM.SaveChanges();
+
+ //4. Go to the customer view (before that, u need to load customers data)
+            return RedirectToAction("CustomersPage");
+        }
     }
 }

@@ -1,0 +1,10 @@
+﻿
+@model TestEntityFW1.Models.Customer
+
+<form action="/Home/SaveCustomerChanges" method="post">
+    Customer ID: <input type="text" disabled value="@ViewBag.CustomerToBeUpdated.CustomerID"/><br /><br />
+    <input type="hidden" name="CustomerID" value="@ViewBag.CustomerToBeUpdated.CustomerID" /><br /><br />
+    Company Name: <input type="text" name="CompanyName" value="@ViewBag.CustomerToBeUpdated.CompanyName"/><br /><br />
+    City Name: <input type="text" name="City" value="@ViewBag.CustomerToBeUpdated.City" /><br /><br />
+    <input type="submit" value="Save Changes" />
+</form>

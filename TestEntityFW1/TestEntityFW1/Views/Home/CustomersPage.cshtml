@@ -20,6 +20,8 @@
         <th>City</th>
         <th>Country</th>
         <th>Orders</th>
+        <th>Delete</th>
+        <th>Update</th>
     </tr>
     @foreach (var C in ViewBag.CustomersData)
     {
@@ -39,6 +41,13 @@
             <td>
                 <a href="/Home/GetOrdersByCID?CustomerID=@C.CustomerID">Orders</a>
             </td>
+            <td>
+                <a href="/Home/DeleteCustomerByCID?CustomerID=@C.CustomerID">Delete</a>
+            </td>
+            <td>
+                <a href="/Home/UpdateCustomerByCID?CustomerID=@C.CustomerID">Update</a>
+            </td>
+
         </tr>
     }
 </table>
